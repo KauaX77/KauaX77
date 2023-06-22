@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem Vindo ao meu perfl🦇
 
-<!--
-**KauaX77/KauaX77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Kauã Fernando
 
-Here are some ideas to get you started:
+-Estudante do Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estudo programção e data science
+
+-Utilizo esse espaço para organização
+
+instagram:@fernando_kaua🇧🇷 
+
+
+![neyney-neymar](https://github.com/KauaX77/KauaX77/assets/135272571/54df1905-d945-44be-a0c9-6694f5df68b8)
+
